@@ -22,7 +22,7 @@ git subtree pull -P components git@github.com:xiaoliwang/yii2_components.git mas
 
 ### Requirements
 
-- PHP >= 7.0
+- PHP >= 7.1
 - ext-redis >=3.1.1
 - yii2 >= 2.0.5
 
